@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboaard
+# HR Analytics Dashboaard
 **This projects is about how many employee left company and from which department
 In this projects I do**
 - Data Cleaning & Processing in Power BI
